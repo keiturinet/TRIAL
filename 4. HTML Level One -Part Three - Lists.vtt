@@ -1,0 +1,232 @@
+WEBVTT
+
+00:05.440 --> 00:10.450
+Hello everyone and welcome to part three of a small level one where we discuss how to create a list
+
+00:10.540 --> 00:11.800
+an HMO.
+
+00:12.270 --> 00:15.810
+A lot of times you want to get your information on your e-mail page organized.
+
+00:15.820 --> 00:20.450
+And one way to do this is with a list an e-mail has two main types of lists.
+
+00:20.560 --> 00:26.140
+That's an ordered list and an unordered list and we can actually then add list elements to each of these
+
+00:26.140 --> 00:26.880
+types.
+
+00:27.070 --> 00:30.940
+Let's get started by jumping to the Adam text editor and our browser.
+
+00:30.940 --> 00:36.490
+All right here I am with my Adam text editor open and I have right now just the simple basics that DML
+
+00:36.580 --> 00:41.620
+documents we've been working with and I've deleted everything beleft one heading one that says lists
+
+00:41.710 --> 00:42.640
+on it.
+
+00:42.640 --> 00:45.360
+Let me first show you how to create an ordered list.
+
+00:45.550 --> 00:52.050
+Now an ordered list is numbered so you can see number one the first item number to the second item etc..
+
+00:52.120 --> 00:57.870
+So to start off with an ordered list you just type o l and then you can click enter here.
+
+00:58.000 --> 01:03.670
+And Adam text editor will automatically create the opening tag and closing tag for you and then inside
+
+01:03.670 --> 01:06.630
+of this ordered list you're going to have list elements.
+
+01:06.670 --> 01:11.150
+If I save this and then refresh my page you notice nothing's actually changed.
+
+01:11.230 --> 01:16.540
+So I do have an ordered list there but with no elements in it to create a list item or list element
+
+01:16.630 --> 01:21.010
+it's just as I said be your tag and then whatever you want in there.
+
+01:21.010 --> 01:26.940
+So in this case we'll just say first item going to save that and refreshed this.
+
+01:26.950 --> 01:31.340
+And I see now I have my one first item and let me zoom in here a little bit.
+
+01:31.360 --> 01:37.010
+We're going to do control plus to zoom in on the safest Tim else we can see it a little better here.
+
+01:37.030 --> 01:38.330
+So here's my first item.
+
+01:38.560 --> 01:46.600
+And as I continue to add list elements into this order list such as my second item save this and refresh
+
+01:46.600 --> 01:52.500
+the page you can see here that they are numbered and this will continue on as long as I just keep Eida
+
+01:52.750 --> 01:59.350
+adding items into this actual list so third item there refresh and here we can see the numbering.
+
+01:59.350 --> 02:05.040
+Now later on of CSSA you can actually change the numbers if you want to use something like roman numerals.
+
+02:05.260 --> 02:09.700
+But this is a very basic default of an HMO ordered list.
+
+02:09.700 --> 02:14.860
+Now a lot of times you actually don't want to number things you just want some sort of bullet point.
+
+02:14.860 --> 02:20.080
+And if you want that then what you're looking for isn't an ordered list and to create an unordered list.
+
+02:20.080 --> 02:23.010
+You use the tag UL for an ordered list.
+
+02:23.170 --> 02:25.230
+So you all enter there.
+
+02:25.270 --> 02:27.540
+It creates the opening and closing tags for me.
+
+02:27.750 --> 02:32.590
+And now as the add list items all say bulat one here.
+
+02:33.540 --> 02:36.690
+Add another item here will say second item.
+
+02:36.700 --> 02:38.790
+You can really add whatever text you want here.
+
+02:39.000 --> 02:46.440
+Well do ally enter here and then we'll say third item going to save this and refresh and I you see I
+
+02:46.440 --> 02:50.910
+have an unordered list where there is no number but everything is just a bullet point.
+
+02:50.910 --> 02:55.190
+And that's the main difference between an ordered list o l and an unordered list.
+
+02:55.200 --> 02:59.470
+UL and the last thing I want to cover quickly here is a nested list.
+
+02:59.490 --> 03:04.800
+So you can actually nest lists inside of each other and you can test an ordered list inside of an unordered
+
+03:04.800 --> 03:06.810
+list or vice versa.
+
+03:06.810 --> 03:12.590
+Let me show you an example of this and I'll show you kind of an extreme example of nesting lists.
+
+03:12.630 --> 03:16.980
+So you usually won't see that many list and into each other but I just want to show you this.
+
+03:16.980 --> 03:19.250
+You can get an idea of what's possible.
+
+03:19.560 --> 03:22.590
+So here's an ordered list and I'm going to have two items in it.
+
+03:22.590 --> 03:32.450
+First item one and then item 2 and I'm just using the autocomplete there enter to make that a little
+
+03:32.450 --> 03:32.840
+quicker.
+
+03:32.840 --> 03:34.790
+So here's item one here's item too.
+
+03:34.970 --> 03:38.070
+And they're numbered because they're inside an ordered list.
+
+03:38.330 --> 03:46.010
+And now I'm going to put in an ordered list inside of these ordered list tags I put in that an ordered
+
+03:46.010 --> 03:52.700
+list which means if I add some new list elements will be inside so I'm going to say something like I'm
+
+03:53.090 --> 03:56.160
+nested inside for that list item.
+
+03:56.390 --> 04:03.350
+And you know make another list item that says also nested exclamation mark will save that refresh this
+
+04:03.470 --> 04:05.810
+and we can see here that was that nesting.
+
+04:05.810 --> 04:07.970
+We also get an extra in the notation.
+
+04:08.090 --> 04:14.750
+So a symbol can show that this is nested inside of this list so if we wanted to get say Item one item
+
+04:14.750 --> 04:18.560
+two and then we could say these are like sub items of item 2.
+
+04:18.570 --> 04:21.170
+That is an unordered list.
+
+04:21.170 --> 04:26.210
+Now we can actually keep going if this if you wanted something further nested then we could put an ordered
+
+04:26.210 --> 04:36.590
+list in there and then say something like whoa I'm really nice that exclamation mark and let's emphasize
+
+04:36.590 --> 04:39.180
+this by putting some of this in bold.
+
+04:39.180 --> 04:42.790
+So remember we have these strong tags to put something in bold.
+
+04:43.010 --> 04:45.470
+And I'm going to go in there.
+
+04:48.010 --> 04:48.400
+We go.
+
+04:48.410 --> 04:50.080
+Now let's save that.
+
+04:50.270 --> 04:52.580
+Refresh this and we can see here.
+
+04:52.580 --> 04:53.240
+Item one.
+
+04:53.270 --> 04:57.800
+Item 2 we have this nested unordered list and then whoa I'm really nested there.
+
+04:57.800 --> 05:00.970
+So it's just a very quick example of nesting lists.
+
+05:00.990 --> 05:05.660
+We're not going to do it too often in the course but I just want you to be aware of the ability to do
+
+05:05.660 --> 05:06.310
+that.
+
+05:06.360 --> 05:06.970
+All right.
+
+05:07.010 --> 05:09.920
+So that's really all there is for lists themselves.
+
+05:09.920 --> 05:15.890
+It's a pretty basic topic remember you essentially have this oh well for ordered list and you fell for
+
+05:15.980 --> 05:21.560
+an ordered list and then inside of either these every item in that list is going to have an L.A. tag
+
+05:21.920 --> 05:23.360
+Corri list elements.
+
+05:23.390 --> 05:26.150
+OK thanks everyone and I will see you at the next lecture.
